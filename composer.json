@@ -4,7 +4,9 @@
         "yiisoft/yii2-shell": "^2.0@dev",
         "codeception/codeception": "2.1.*",
         "codeception/specify": "*",
-        "codeception/verify": "*"
+        "codeception/verify": "*",
+        "yiisoft/yii2-faker": "^2.0",
+        "yiisoft/yii2-debug": "^2.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
