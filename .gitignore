@@ -1,0 +1,10 @@
+composer.phar
+/vendor/*
+/tests/_log/*
+/tests/_temp/*
+/tests/_output/*
+/tests/_support/_generated
+/composer*.lock
+!.gitkeep
+/web/assets/*
+/runtime
